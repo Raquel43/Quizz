@@ -1,0 +1,52 @@
+#container {
+  border: 1px solid #ccc;
+  border-radius: 16px;
+  padding: 10px;
+}
+body {
+  background-image: url("../img/thanos.png");
+  background-repeat: no-repeat;
+  backdrop-filter: blur(6px);
+  backdrop-filter: contrast(30%);
+}
+h1 {
+  font-size: 40px;
+  text-align: center;
+}
+form {
+  background-color: rgba(241, 236, 236, 0.4);
+}
+#button-comprobar {
+  background-color: yellow;
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  text-shadow: 3px 2px 1px #9daef5;
+  -webkit-box-shadow: 6px 5px 24px #666666;
+  -moz-box-shadow: 6px 5px 24px #666666;
+  box-shadow: 6px 5px 24px #666666;
+  font-family: Arial;
+  color: black;
+  font-size: 27px;
+  padding: 19px;
+  text-decoration: none;
+}
+
+#button-restaurar {
+    background-color: rgb(0, 89, 255);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    text-shadow: 3px 2px 1px #9daef5;
+    -webkit-box-shadow: 6px 5px 24px #666666;
+    -moz-box-shadow: 6px 5px 24px #666666;
+    box-shadow: 6px 5px 24px #666666;
+    font-family: Arial;
+    color: black;
+    font-size: 27px;
+    padding: 19px;
+    text-decoration: none;
+  }
+h2 {
+  display: inline;
+}

@@ -1,0 +1,145 @@
+[
+    {
+        "id":1,
+        "pregunta": "¿En qué año se estrenó la primera película de Iron Man, que lanzó el Marvel Cinematic Universe?",
+        "respuestas":[
+            {
+                "orden":1,
+                "respuesta":"2005",
+                "valor":false
+            },
+            {
+                "orden":2,
+                "respuesta":"2008",
+                "valor":true
+            },
+            {
+                "orden":3,
+                "respuesta":"2010",
+                "valor":false
+            },
+            {
+                "orden":4,
+                "respuesta":"2012",
+                "valor":false
+            }
+            
+
+        ]
+    },
+    {
+        "id":2,
+        "pregunta": "¿Cómo se llama el martillo de Thor?",
+        "respuestas":[
+            {
+                "orden":1,
+                "respuesta":"Vanir",
+                "valor":false
+            },
+            {
+                "orden":2,
+                "respuesta":"Mjolnir",
+                "valor":true
+            },
+            {
+                "orden":3,
+                "respuesta":"Aesir",
+                "valor":false
+            },
+            {
+                "orden":4,
+                "respuesta":"Norn",
+                "valor":false
+            }
+            
+
+        ]
+    },
+    {
+        "id":3,
+        "pregunta": "En The Incredible Hulk, ¿qué le dice Tony a Thaddeus Ross al final de la película?",
+        "respuestas":[
+            {
+                "orden":1,
+                "respuesta":"Que quiere estudiar The Hulk",
+                "valor":false
+            },
+            {
+                "orden":2,
+                "respuesta":"Que él sabe sobre SHIELD",
+                "valor":false
+            },
+            {
+                "orden":3,
+                "respuesta":"Que están formando un equipo",
+                "valor":true
+            },
+            {
+                "orden":4,
+                "respuesta":"Que Thaddeus le debe dinero",
+                "valor":false
+            }
+            
+
+        ]
+    },
+    {
+        "id":4,
+        "pregunta": "¿De qué está hecho el escudo del Capitán América?",
+        "respuestas":[
+            {
+                "orden":1,
+                "respuesta":"Adamantium",
+                "valor":false
+            },
+            {
+                "orden":2,
+                "respuesta":"Vibranio",
+                "valor":true
+            },
+            {
+                "orden":3,
+                "respuesta":"prometeo",
+                "valor":false
+            },
+            {
+                "orden":4,
+                "respuesta":"Carbonadio",
+                "valor":false
+            }
+            
+
+        ]
+    },
+    {
+        "id":5,
+        "pregunta": "Los Flerkens son una raza de alienígenas extremadamente peligrosos que se parece a qué.",
+        "respuestas":[
+            {
+                "orden":1,
+                "respuesta":"Gatos",
+                "valor":true
+            },
+            {
+                "orden":2,
+                "respuesta":"Patos",
+                "valor":false
+            },
+            {
+                "orden":3,
+                "respuesta":"reptiles",
+                "valor":false
+            },
+            {
+                "orden":4,
+                "respuesta":"Mapaches",
+                "valor":false
+            }
+            
+
+        ]
+    }
+   
+   
+    
+]
